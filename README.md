@@ -1,10 +1,10 @@
 # free-for.dev
 
-this is my first commit in branch2
+this is my first commit
 
-this is my second commit in branch2
+this is my second commit
 
-this is my third commit in branch2
+this is my third commit
 
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
 
