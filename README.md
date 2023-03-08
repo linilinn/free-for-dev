@@ -2,6 +2,8 @@
 
 new one
 
+new two
+
 this is my first commit in branch1
 
 this is my second commit in branch1
